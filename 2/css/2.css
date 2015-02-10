@@ -1,0 +1,9 @@
+/*
+ Tile 'bg.png' file to 'body' background
+*/
+
+body {
+	background: url("../img/bg.png");
+
+
+/*"../" hops out of of folder; enables you to go out and back in*/
